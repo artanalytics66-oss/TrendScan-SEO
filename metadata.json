@@ -1,0 +1,5 @@
+{
+  "name": "TrendScan SEO Analyzer",
+  "description": "An analytical monitoring system for current trends and search demand, identifying SEO-viable topics from open web sources using Gemini 3 Pro with Google Search grounding.",
+  "requestFramePermissions": []
+}
